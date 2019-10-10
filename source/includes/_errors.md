@@ -7,15 +7,15 @@ This error section is stored in a separate file in <code>includes/_errors.md</co
 The Kittn API uses the following error codes:
 
 
-Error Code | Meaning
+Código do Erro | Significado
 ---------- | -------
-400 | Bad Request -- Your request is invalid.
-401 | Unauthorized -- Your API key is wrong.
-403 | Forbidden -- The kitten requested is hidden for administrators only.
-404 | Not Found -- The specified kitten could not be found.
-405 | Method Not Allowed -- You tried to access a kitten with an invalid method.
-406 | Not Acceptable -- You requested a format that isn't json.
-410 | Gone -- The kitten requested has been removed from our servers.
+400 | Requisição inválida
+401 | Não autorizado -- Sua chave API está errada.
+403 | Proibido -- A requisição só pode ser acessada por administradores.
+404 | Não encontrado -- Requisição não encontrada
+405 | Método não permitido -- Você tentou acessar um método inexistente.
+406 | Inaceitável -- Sua requisição não está no formato JSON.
+410 | Removido -- A requisição foi removida dos servidores.
 418 | I'm a teapot.
 429 | Too Many Requests -- You're requesting too many kittens! Slow down!
 500 | Internal Server Error -- We had a problem with our server. Try again later.

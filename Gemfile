@@ -13,3 +13,4 @@ gem 'rouge', '~> 2.0.5'
 gem 'redcarpet', '~> 3.4.0'
 gem 'nokogiri', '~> 1.8.2'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'rmultimarkdown', '~> 6.4', '>= 6.4.0.4'
