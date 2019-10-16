@@ -57,7 +57,7 @@ Você deve substituir <code>sua-chave</code> pela sua chave API pessoal.
       titulo: "titulo do projeto",
       tipo: "tipo do projeto"
       orgao_financiador: "fec",
-      tipo_financiamento: "contrato",
+      tipos_financiamento: "contrato",
       local: {
         endereco: "Rua Miguel de Frias, 123",
         complemento: "",
@@ -118,14 +118,14 @@ Você deve substituir <code>sua-chave</code> pela sua chave API pessoal.
 ### Título do Projeto
   Descrição: Preencher o Título do Projeto.
 ### Tipo do Projeto (Pesquisa, Extensão, Desenvolvimento Institucional e Ensino)
-  Descrição: 'Preencher o tipo de projeto, de acordo com as definições que podem ser encontradas na Resolução nº 26/2017. Obs.: Projetos de Ensino não contemplados pela Resolução 155/2008'
+  Descrição: Preencher o tipo de projeto, de acordo com as definições que podem ser encontradas na Resolução nº 26/2017. Obs.: Projetos de Ensino não contemplados pela Resolução 155/2008
 ### Nome do Curso
   Descrição: Preencher com o nome do curso.
 ### Tipo do Curso (Atualização, Extensão, Aperfeiçoamento, Pós-Graduação Stricto sensu, Pós-Graduação Lato Sensu)
   Descrição: Preencher com o tipo do curso.
 ### Tipo de Turma
-  Descrição: "Turma Contrato: Turma fechada, financiada por empresa privada/pública\n
-              Turma Auto sustentável: Turma aberta ao público."
+  Descrição: Turma Contrato: Turma fechada, financiada por empresa privada/pública
+             Turma Auto sustentável: Turma aberta ao público.
 ### Tipo de Arrecação (UFF/FEC)
   Descrição: Arrecadação UFF: significa que os recursos financeiros do projeto já estão ou ingressarão na UFF, que os transferirá à FEC mediante pagamento de nota fiscal por esta emitida. 
   Arrecadação FEC: significa que os recursos financeiros serão arrecadados diretamente pela FEC.
